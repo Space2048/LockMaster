@@ -1,0 +1,5 @@
+{
+  "name": "LockMaster: 并发锁可视化教学",
+  "description": "一个交互式应用程序，用于通过可视化模拟和 AI 生成的代码示例来详细解释计算机科学中的各种锁机制（互斥锁、自旋锁、读写锁等）。",
+  "requestFramePermissions": []
+}
